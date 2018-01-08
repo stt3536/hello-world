@@ -1,2 +1,3 @@
 # hello-world
-just for fun!
+do you hear the people singing?
+Do you think this world is full of pleasures?
