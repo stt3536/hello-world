@@ -1,4 +1,4 @@
 # hello-world
-do you hear the people singing?
-singing a song of angryman
+Do you hear the people singing?
+Singing a song of an angry man.
 Do you think this world is full of pleasures?
